@@ -39,7 +39,7 @@ exports.main = async (params) => {
     return {
       workspace_id,
       input: params.input || { text: '' },
-      context: params.context || ''
+      context: params.context || {}
     }
   }
 
