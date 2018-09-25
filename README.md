@@ -14,8 +14,8 @@ On Google Cloud, i wasnt able to complete the serverless architecture, i only bu
 
 ## IBM
 
-On development.
+With IBM was developed an IBM Function that already integrate with API Gateway giving the user a ANY Method URL that can be managed in code, ibm has a great plataform with great usability, so it was easy to learn how to deploy. I was surprised that IBM does not have IBM sdk or watson sdk as default.
 
 ## Azure
 
-On development.
+On azure i got some problems, i cannot complete the project on my free tier usage, azure functions dont load on console, and deploy with package has to me done with azure CLI. After a first attempt i was able (with sttruggle) to deploy the cloudinho, but sometimes the function return nothing, i abbandoned azure plataform and hope to use it in future.
