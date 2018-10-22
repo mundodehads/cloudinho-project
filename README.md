@@ -18,4 +18,4 @@ With IBM was developed an IBM Function that already integrate with API Gateway g
 
 ## Azure
 
-On azure i got some problems, i cannot complete the project on my free tier usage, azure functions dont load on console, and deploy with package has to me done with azure CLI. After a first attempt i was able (with sttruggle) to deploy the cloudinho, but sometimes the function return nothing, i abbandoned azure plataform and hope to use it in future.
+On azure i got some problems in my first try, but then i read more about the node.js functions reference and it became much easier to implement my function, azure gave a model for http trigger functions, after the implementation you got a url that can be called in any http method, to install my watson dependencie i just ran npm install on web console, simple  as that my function was already running.
